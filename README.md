@@ -55,8 +55,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Joao-Vitor-Lopes/Joao-Vitor-Lopes/output/snake.svg" alt="Snake animation" />
-
-###
